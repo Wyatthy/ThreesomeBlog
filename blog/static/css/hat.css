@@ -1,0 +1,41 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    font-family: 'Franklin-Demi',"冬青黑体","microsoft yahei";
+}
+
+.mia{
+	height: 700px;
+	width: 1110px;
+	margin: 0px auto ;
+	background-color: white;
+	
+}
+.table{
+	width: 447px; 
+	height: 180px; 
+	margin: 0px auto;
+	
+}
+#pr-title{
+	padding-bottom: 10px;
+	line-height: 1.8;
+	text-align: left;
+}
+.action-price{
+	font-size: 18px;
+	font-family: FRADMCN,"冬青黑体","microsoft yahei";
+	/* line-height: 26px; */
+	color: #c8192e;
+	
+}
+.lable{
+	display: block;
+	float: none;
+	width: auto;
+	margin: 0;
+	text-align: left;
+	font-size: 16px;
+	line-height: 40px;
+	color: #000;
+	font-weight: bold;
+}

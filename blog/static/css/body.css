@@ -1,0 +1,80 @@
+.long{
+	width: 1226px;
+	height: 50px;
+	background-color: rgb(245,246,245);
+	margin: 3px auto 20px;
+}
+
+.long2{
+	width: 1226px;
+	height: 43px;
+	background-color: rgb(245,246,245);
+	margin: -22px auto 20px;
+}
+.six{
+	width: 1226px;
+	height: 238px;
+	border: skyblue solid;
+	margin: 0 auto 30px;
+}
+
+.content {
+	width: 1226px;
+	height: 390px;
+	margin: 0 auto 20px;
+	background-color: white;
+}
+
+.rig{
+	width: 410px;
+	height: 390px;
+	background-color: white;
+	float: right;
+	margin-top: -15px;
+}
+
+.rig img{
+	width: 180px;
+	height: 160px;
+	float: left;
+	margin-top: 14px;
+	margin-right: 25px;
+}
+.six img{
+	width: 230px;
+	height: 230px;
+	float: left;
+	margin-right: 10px;
+}
+
+.topBar_cart {		/* 购物车(右对齐) */
+ 	width: 400px;
+ 	height: 40px;
+ 	/* background-color:gray; */
+ 	float: left;
+	/* margin-top: 20px;
+	margin-left: 20px; 
+ 	text-align: center;*/
+ }
+
+
+	
+
+ .topBar_cart a {
+ 	font-size: 12px;
+ 	font-weight: border;
+ 	color: #b0b0b0;
+ 	text-decoration: none;
+ 	margin: 5px auto;
+ }
+
+ .topBar_cart a:hover {
+ 	color: skyblue;
+ }
+
+ .topBar_cart #t_cart {
+ 	width: 22px;
+ 	height: 22px;
+ 	position: relative;
+ 	top: 8px;
+ }
